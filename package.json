@@ -1,0 +1,24 @@
+{
+  "name": "twilio_error_logger",
+  "version": "1.0.0",
+  "description": "cmd line application for sending text messages",
+  "main": "twilioSMS.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twilio": "^3.50.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABurgerGuy/node-twilio-cmdline-app.git"
+  },
+  "author": "ABurgerFlippingGuy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ABurgerGuy/node-twilio-cmdline-app/issues"
+  },
+  "homepage": "https://github.com/ABurgerGuy/node-twilio-cmdline-app#readme"
+}
